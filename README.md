@@ -64,9 +64,9 @@ The container uses `flex-wrap: wrap` to demonstrate an additional Flexbox layout
 ![Bottom Right Position](screenshoots/bottom-right.png)
 ## Video Demonstration
 
-**Video link:** To be added after recording.
+**Video title:** `week2-flexbox-practice-video.mp4`
 
-The demonstration video will explain the Flexbox container, the six numbered boxes, the nine positions, and the CSS animation.
+**Video link:** https://drive.google.com/file/d/1e9y_ANGEpAFkb7Uvm-ax5xlyP3Ht6YLQ/view?usp=sharing
 
 ## GitHub Repository
 

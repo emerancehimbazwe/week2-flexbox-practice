@@ -70,8 +70,9 @@ The demonstration video will explain the Flexbox container, the six numbered box
 
 ## GitHub Repository
 
-**Repository link:** Add your public GitHub repository URL here.
+**Repository link:** https://github.com/emerancehimbazwe/week2-flexbox-practice
 
+**Working branch:** `feature/flexbox-animation`
 ## GitHub Pages
 
 **Live website:** Add your GitHub Pages URL here after publishing.

@@ -52,17 +52,16 @@ The container uses `flex-wrap: wrap` to demonstrate an additional Flexbox layout
 
 ## Screenshots
 
-## Screenshots
+### Screenshots
 
 ### 1. Top Left
-![Top Left Position](screenshots/top-left.png)
+![Top Left Position](screenshoots/top-left.png)
 
 ### 2. Center
-![Center Position](screenshots/center.png)
+![Center Position](screenshoots/center.png)
 
 ### 3. Bottom Right
-![Bottom Right Position](screenshots/bottom-right.png)
-
+![Bottom Right Position](screenshoots/bottom-right.png)
 ## Video Demonstration
 
 **Video link:** Add your YouTube Unlisted or Google Drive video URL here after recording.
